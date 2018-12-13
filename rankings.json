@@ -1,0 +1,129 @@
+{
+    "languages": [
+        {
+            "position": "1",
+            "lang": "JavaScript",
+            "rank": "21.41%"
+        },
+        {
+            "position": "2",
+            "lang": "Python",
+            "rank": "14.69%"
+        },
+        {
+            "position": "3",
+            "lang": "Java",
+            "rank": "12.65%"
+        },
+        {
+            "position": "4",
+            "lang": "C++",
+            "rank": "8.30%"
+        },
+        {
+            "position": "5",
+            "lang": "C",
+            "rank": "5.84%"
+        },
+        {
+            "position": "6",
+            "lang": "PHP",
+            "rank": "5.31%"
+        },
+        {
+            "position": "7",
+            "lang": "C#",
+            "rank": "4.79%"
+        },
+        {
+            "position": "8",
+            "lang": "Shell",
+            "rank": "4.78%"
+        },
+        {
+            "position": "9",
+            "lang": "Go",
+            "rank": "4.36%"
+        },
+        {
+            "position": "10",
+            "lang": "TypeScript",
+            "rank": "3.82%"
+        },
+        {
+            "position": "11",
+            "lang": "Ruby",
+            "rank": "2.94%"
+        },
+        {
+            "position": "12",
+            "lang": "Jupyter Notebook",
+            "rank": "2.66%"
+        },
+        {
+            "position": "13",
+            "lang": "Objective-C",
+            "rank": "1.77%"
+        },
+        {
+            "position": "14",
+            "lang": "Swift",
+            "rank": "1.67%"
+        },
+        {
+            "position": "15",
+            "lang": "Kotlin",
+            "rank": "1.11%"
+        },
+        {
+            "position": "16",
+            "lang": "Rust",
+            "rank": "0.86%"
+        },
+        {
+            "position": "17",
+            "lang": "R",
+            "rank": "0.78%"
+        },
+        {
+            "position": "18",
+            "lang": "Scala",
+            "rank": "0.74%"
+        },
+        {
+            "position": "19",
+            "lang": "Lua",
+            "rank": "0.68%"
+        },
+        {
+            "position": "20",
+            "lang": "PowerShell",
+            "rank": "0.53%"
+        },
+        {
+            "position": "21",
+            "lang": "Matlab",
+            "rank": "0.47%"
+        },
+        {
+            "position": "22",
+            "lang": "CoffeeScript",
+            "rank": "0.44%"
+        },
+        {
+            "position": "23",
+            "lang": "Perl",
+            "rank": "0.43%"
+        },
+        {
+            "position": "24",
+            "lang": "Groovy",
+            "rank": "0.37%"
+        },
+        {
+            "position": "25",
+            "lang": "Haskell",
+            "rank": "0.37%"
+        }
+    ]
+}
